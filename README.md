@@ -121,4 +121,4 @@ The project is organized into several key directories:
 Upon running the application, you will be presented with a main menu. Follow the on-screen prompts to navigate through different functionalities like managing clients, contracts, advisors, and claims.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details (if available).
+This project is licensed under the MIT License. See the `LICENSE` file for details.
