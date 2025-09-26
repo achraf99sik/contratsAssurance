@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="contratsAssurance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/contratsAssurance_jar</output-path>
+    <root id="archive" name="contratsAssurance.jar">
+      <element id="module-output" name="contratsAssurance" />
+    </root>
+  </artifact>
+</component>
